@@ -1,4 +1,4 @@
-# loac-surface-algebras
+# local-surface-algebras
 Study finite dimensional quotients of cyclic quivers
 ---
 Taking quotients by paths of some maximal length $n$ of the cyclic quivers as described in [The Composition Algebra of a Cyclic Quiver](https://github.com/The-Singularity-Research/loac-surface-algebras/blob/main/15988304.pdf) we get finite dimensional algebras. A gluing
@@ -8,5 +8,8 @@ of a collection of such algebras according to the methods described in [Surface 
 -[Lecture 2](https://www.youtube.com/watch?v=d2R9cbttqBY)
 -[Lecture 3](https://www.youtube.com/watch?v=a7xw0p4WfDs)
 
-Our generalization allows for high energy levels by allowing for returning to a vertex of the quiver (corresponding to a simple module of the path algebra in the Ringel paper) so that the system is a periodic covering of t'Hooft's "cogwheel model". 
+Our generalization allows for high energy levels by allowing for returning to a vertex of the quiver (corresponding to a simple module of the path algebra in the Ringel paper) so that the system is a periodic covering of t'Hooft's "cogwheel model". This can be viewed as a cellular automata in much the same way as Conway's Game of Life on pixels in a square lattice in the plane 
 
+$$\mathbb{Z}^2 \subset \mathbb{R}^2.$$
+
+Our model allows for $$m = k|Q_0|$$ possible state (rather than just on/off in Conway's case). Here k is the maximal path length of the local cyclic quiver path algebra and also determines the number of sheets in the cyclic covering of t'Hooft's cogwheel. 
