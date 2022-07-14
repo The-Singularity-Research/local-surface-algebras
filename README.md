@@ -42,4 +42,6 @@ Definining the gluing of circles in such a way as to accomodate this irrational 
 
 1. Gluing at single points of an equivalence class, or
 
-2. Gluing along intervals of circles with irrational rotation angles which are compatible, i.e. multiples of one another by some rational coefficient. 
+2. Gluing along intervals of circles with irrational rotation angles which are compatible, i.e. multiples of one another by some rational coefficient.
+
+The path algebra of a corresponding quiver for each such circle would then be of type $\mathbb{A}_{\infty}$. 
