@@ -12,4 +12,4 @@ Our generalization allows for high energy levels by allowing for returning to a 
 
 $$\mathbb{Z}^2 \subset \mathbb{R}^2.$$
 
-Our model allows for $$m = k|Q_0|$$ possible state (rather than just on/off in Conway's case). Here k is the maximal path length of the local cyclic quiver path algebra and also determines the number of sheets in the cyclic covering of t'Hooft's cogwheel. 
+Our model allows for $$m = k|Q_0|$$ possible state (rather than just on/off in Conway's case). Here k is the maximal path length of the local cyclic quiver path algebra and also determines the number of sheets in the cyclic covering of t'Hooft's cogwheel. We view this as an $m$-dimensional qudit. We could also think of this as a $|Q_0|$ = $d$-dimensional qudit with phase factors or some variable of a ring separating the sheets of the covering. 
